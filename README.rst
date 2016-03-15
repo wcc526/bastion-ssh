@@ -50,11 +50,11 @@ Hello World:
     :target: https://pypi.python.org/pypi/bastion_ssh
     :alt: Latest version released on PyPi
 
-.. |coverage| image:: https://img.shields.io/coveralls/jkbrzt/httpie/master.svg
+.. |coverage| image:: https://img.shields.io/coveralls/wcc526/bastion-ssh/master.svg
     :target: https://coveralls.io/r/wcc526/bastion-ssh?branch=master
     :alt: Test coverage
 
-.. |unix_build| image:: https://img.shields.io/travis/wcc526/bastion-ssh/master.svg
+.. |unix_build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
     :target: https://travis-ci.org/wcc526/bastion-ssh
     :alt: Build status of the master branch on Mac/Linux
 
