@@ -55,7 +55,7 @@ Hello World:
     :alt: Test coverage
 
 .. |unix_build| image:: https://img.shields.io/travis/wcc526/bastion-ssh/master.svg
-    :target: http://travis-ci.org/wcc526/bastion-ssh
+    :target: https://travis-ci.org/wcc526/bastion-ssh
     :alt: Build status of the master branch on Mac/Linux
 
 .. |gitter| image:: https://badges.gitter.im/wcc526/bastion-ssh.svg
