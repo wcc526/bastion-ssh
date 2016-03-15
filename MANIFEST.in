@@ -1,0 +1,6 @@
+recursive-include bastion_ssh * *.*
+recursive-exclude bastion_ssh *~ *.pyc
+include README.rst
+include HISTORY.rst
+include LICENSE
+include requirements.txt

@@ -49,7 +49,7 @@ setup(
     author_email='949409306@qq.com',
     url='http://www.python.org',
     packages=packages,
-    package_data={'': ['LICENSE'], 'bastion_ssh': ['*.pem']},
+    package_data={'': ['LICENSE','requirements.txt'], 'bastion_ssh': ['*.pem']},
     include_package_data=True,
     install_requires=requires,
     license='Apache 2.0',
