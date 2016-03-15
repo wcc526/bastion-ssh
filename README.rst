@@ -25,7 +25,7 @@ Main Features
 ScreenShots
 =============
 
-.. image:: https://raw.githubusercontent.com/wcc526/bastion-ssh/master/docs/screenshots.gif
+.. image:: https://raw.githubusercontent.com/wcc526/bastion-ssh/master/doc/screenshots.gif
     :alt: ScreenShots
     :width: 679
     :height: 781
