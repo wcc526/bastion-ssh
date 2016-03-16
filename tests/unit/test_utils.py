@@ -20,7 +20,7 @@ class TestCommandParser(unittest.TestCase):
 
     def test_special_space_command_parser(self):
         ps1_command = "[vagrant@cyberivy-test-dev002-shjj ~]$ cd /var/tmp && dd"
-        self.assertEquals(command_parser(ps1_command), "cd /var/tmp && d")
+        self.assertEquals(command_parser(ps1_command), "cd /var/tmp && dd")
 
     def test_not_special_space_command_parser(self):
         ps1_command = "[vagrant ~]$ cd /var/tmp && dd"

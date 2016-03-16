@@ -65,7 +65,7 @@ Hello World:
     :target: https://coveralls.io/r/wcc526/bastion-ssh?branch=master
     :alt: Test coverage
 
-.. |build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg
+.. |build| image:: https://travis-ci.org/wcc526/bastion-ssh.svg?branch=master
     :target: https://travis-ci.org/wcc526/bastion-ssh
     :alt: Build status of the master branch on Mac/Linux
 
