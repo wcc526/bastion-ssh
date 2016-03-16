@@ -4,6 +4,8 @@ python:
     - "2.7"
 
 sudo: false
+cache:
+  pip: true
 
 before_install:
   - if [ "$TRAVIS_PULL_REQUEST" != "false" ] && [ "$TRAVIS_BRANCH" == "master" ]; then
