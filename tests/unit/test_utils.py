@@ -23,5 +23,5 @@ class TestCommandParser(unittest.TestCase):
         self.assertEquals(command_parser(ps1_command), "cd /var/tmp && dd")
 
     def test_not_special_space_command_parser(self):
-        ps1_command = "[vagrant ~]$ cd /var/tmp && dd"
+        ps1_command = "[vagrant ~]$ cd /var/tmp && d"
         self.assertEquals(command_parser(ps1_command), None)
