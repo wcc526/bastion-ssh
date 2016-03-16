@@ -1,2 +1,4 @@
 [run]
-source = bastion_ssh
+branch = True
+include =
+    bastion_ssh/*

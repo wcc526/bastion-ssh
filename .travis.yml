@@ -1,12 +1,17 @@
 language: python
+
 python:
     - "2.7"
+
+sudo: false
+
+before_install:
+  - if [ "$TRAVIS_PULL_REQUEST" != "false" ] && [ "$TRAVIS_BRANCH" == "master" ]; then
+      echo "No pull requests can be sent to the master branch" 1>&2;
+      exit 1;
+    fi
 install:
-    - pip install -r requirements.txt
-    - pip install coveralls
-script:
-    - python -c "import bastion_ssh"
-    - coverage run setup.py test
+  - python scripts/ci/install.py
+script: python scripts/ci/run-tests.py
 after_success:
-    - coverage combine
-    - coveralls
+  - pip install python-coveralls && cd tests && coveralls
