@@ -97,6 +97,6 @@ Hello World:
     :target: https://codeclimate.com/github/wcc526/bastion-ssh
     :alt: Code Climate
 
-.. |wheel| image:: https://img.shields.io/pypi/l/bastion_ssh.svg
+.. |wheel| image:: https://img.shields.io/badge/wheel-yes-green.svg
     :target: https://pypi.python.org/pypi/bastion_ssh/
     :alt: wheel
