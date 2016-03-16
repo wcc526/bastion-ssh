@@ -76,3 +76,7 @@ Hello World:
 .. |bitdeli| image:: https://d2weczhvl823v0.cloudfront.net/wcc526/bastion-ssh/trend.png
      :target: https://bitdeli.com/free
      :alt: Bitdeli badge
+
+.. |license| image:: https://img.shields.io/pypi/l/bastion_ssh.svg
+     :target: https://pypi.python.org/pypi/bastion_ssh
+     :alt: license
