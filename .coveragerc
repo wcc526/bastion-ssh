@@ -1,2 +1,2 @@
 [run]
-source = bastion_ssh/*
+source = bastion_ssh
