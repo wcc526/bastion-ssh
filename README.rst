@@ -6,7 +6,7 @@ Bastion SSH is designed for protecting,monitoring and accessing multiple SSH res
 
 -----
 
-|pypiv| |pypidm| |doc| |codeclimate| |build| |coverage| |gitter| |license| |wheel| |python_version| |code_health|
+|pypiv| |python_version| |wheel| |pypidm| |doc| |codeclimate| |code_health| |build| |coverage| |gitter| |license|
 
 -----
 
@@ -65,7 +65,7 @@ Hello World:
     :target: https://coveralls.io/r/wcc526/bastion-ssh?branch=master
     :alt: Test coverage
 
-.. |build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
+.. |build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg
     :target: https://travis-ci.org/wcc526/bastion-ssh
     :alt: Build status of the master branch on Mac/Linux
 
@@ -93,6 +93,6 @@ Hello World:
     :target: https://www.python.org
     :alt: python version
 
-.. |code_health| image:: https://landscape.io/github/wcc526/bastion-ssh/master/landscape.svg?style=flat
+.. |code_health| image:: https://landscape.io/github/wcc526/bastion-ssh/master/landscape.svg
     :target: https://landscape.io/github/wcc526/bastion-ssh/master
     :alt: Code Health
