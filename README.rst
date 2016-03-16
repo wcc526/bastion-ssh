@@ -6,7 +6,7 @@ Bastion SSH is designed for protecting,monitoring and accessing multiple SSH res
 
 -----
 
-|pypiv| |pypidm| |doc| |codeclimate| |travis_build| |appveyor_build| |coverage| |codecov| |gitter| |bitdeli| |license| |wheel| |python_version| |code_health|
+|pypiv| |pypidm| |doc| |codeclimate| |build| |coverage| |gitter| |license| |wheel| |python_version| |code_health|
 
 -----
 
@@ -65,25 +65,13 @@ Hello World:
     :target: https://coveralls.io/r/wcc526/bastion-ssh?branch=master
     :alt: Test coverage
 
-.. |codecov| image:: https://codecov.io/github/wcc526/bastion-ssh/coverage.svg?branch=master
-    :target: https://codecov.io/github/wcc526/bastion-ssh/?branch=master
-    :alt: CodeCov coverage
-
-.. |travis_build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
+.. |build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
     :target: https://travis-ci.org/wcc526/bastion-ssh
     :alt: Build status of the master branch on Mac/Linux
-
-.. |appveyor_build| image:: https://ci.appveyor.com/api/projects/status/nmofap1c2xh72hs7?svg=true
-    :target: https://ci.appveyor.com/api/projects/status/nmofap1c2xh72hs7/branch/master
-    :alt: Build status of the master branch on appveyor
 
 .. |gitter| image:: https://badges.gitter.im/wcc526/bastion-ssh.svg
     :target: https://gitter.im/wcc526/bastion-ssh
     :alt: Chat on Gitter
-
-.. |bitdeli| image:: https://d2weczhvl823v0.cloudfront.net/wcc526/bastion-ssh/trend.png
-     :target: https://bitdeli.com/free
-     :alt: Bitdeli badge
 
 .. |license| image:: https://img.shields.io/pypi/l/bastion_ssh.svg
      :target: https://pypi.python.org/pypi/bastion_ssh
