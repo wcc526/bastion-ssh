@@ -6,7 +6,7 @@ Bastion SSH is designed for protecting,monitoring and accessing multiple SSH res
 
 -----
 
-|pypiv| |pypidm| |doc| |codeclimate| |travis_build| |appveyor_build| |coverage| |codecov| |gitter| |bitdeli| |license| |wheel| |python_version|
+|pypiv| |pypidm| |doc| |codeclimate| |travis_build| |appveyor_build| |coverage| |codecov| |gitter| |bitdeli| |license| |wheel| |python_version| |code_health|
 
 -----
 
@@ -101,7 +101,10 @@ Hello World:
     :target: https://pypi.python.org/pypi/bastion_ssh
     :alt: wheel
 
-.. |python_version| image:: https://img.shields.io/badge/python-2.7-yellow.svg
+.. |python_version| image:: https://img.shields.io/badge/python-2.7-blue.svg
     :target: https://www.python.org
     :alt: python version
 
+.. |code_health| image:: https://landscape.io/github/wcc526/bastion-ssh/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/wcc526/bastion-ssh/master
+    :alt: Code Health
