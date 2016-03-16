@@ -6,7 +6,7 @@ Bastion SSH is designed for protecting,monitoring and accessing multiple SSH res
 
 -----
 
-|pypiv| |pypidm| |unix_build| |coverage| |gitter| |bitdeli| |license|
+|pypiv| |pypidm| |unix_build| |coverage| |codecov| |gitter| |bitdeli| |license|
 
 -----
 
@@ -64,6 +64,10 @@ Hello World:
 .. |coverage| image:: https://img.shields.io/coveralls/wcc526/bastion-ssh/master.svg
     :target: https://coveralls.io/r/wcc526/bastion-ssh?branch=master
     :alt: Test coverage
+
+.. |codecov| image:: https://codecov.io/github/wcc526/bastion-ssh/coverage.svg?branch=master
+    :target: https://codecov.io/github/wcc526/bastion-ssh?branch=master
+    :alt: CodeCov coverage
 
 .. |unix_build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
     :target: https://travis-ci.org/wcc526/bastion-ssh
