@@ -66,7 +66,7 @@ Hello World:
     :alt: Test coverage
 
 .. |codecov| image:: https://codecov.io/github/wcc526/bastion-ssh/coverage.svg?branch=master
-    :target: https://codecov.io/github/wcc526/bastion-ssh?branch=master
+    :target: https://codecov.io/github/wcc526/bastion-ssh/?branch=master
     :alt: CodeCov coverage
 
 .. |travis_build| image:: https://img.shields.io/travis/jkbrzt/httpie/master.svg?style=flat-square&label=unix%20build
